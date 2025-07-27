@@ -13,7 +13,7 @@
     font-size:x-small;
 }
 .divLeft{
-    background-color:aliceblue;
+    background-color:rgb(184, 205, 225);
     width:40%;
     margin:0px;
     border-radius:30px ;
@@ -44,9 +44,10 @@ p{
     color: aliceblue;
     border-radius:10px;
     border: none;
+    cursor: pointer;
 }
 .divRight{
- background-color:aliceblue;
+  background-color:rgb(184, 205, 225);
     width:40%;
     margin:0px;
     border-radius:30px;
@@ -60,6 +61,7 @@ p{
     color: aliceblue;
     border-radius:10px;
     border: none;
+    cursor: pointer;
 }
 .section2{
        width:100%;
@@ -68,14 +70,14 @@ p{
     font-size:x-small;
 }
 .divLeft1{
-      background-color:aliceblue;
+       background-color:rgb(184, 205, 225);
     width:40%;
     margin:0px;
     border-radius:30px ;
     display: inline-block;
 }
 .divRight1{
-     background-color:aliceblue;
+    background-color:rgb(184, 205, 225);
     width:40%;
     margin:0px;
     border-radius:30px;
