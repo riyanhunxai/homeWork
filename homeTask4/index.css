@@ -1,16 +1,14 @@
 .gridcontainer{
     display: grid;
-    grid-template-columns:3,1fr;
+    grid-template-columns:repeat(3,1fr);
     grid-template-rows:80px 150px 80px; 
     gap:7px;
     text-align: center;
 }
 .div1{
-    grid-column-start:1;
-    grid-column-end:4;
+    grid-column:1/4;
 }
 
 .div5{
-    grid-column-start: 1;
-    grid-column-end: 4;
+    grid-column: 1/4;
 }
